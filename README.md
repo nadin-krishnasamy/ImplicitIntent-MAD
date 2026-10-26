@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
         android:layout_marginBottom="40dp"
         android:ems="10"
         android:inputType="textUri"
-        android:text="https://www.google.com"
+        android:text="www.gmail.com"
         android:autofillHints="url"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="184dp"
-        android:text="Search"
+        android:text="Navigate"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -140,10 +140,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/84db15de-58b3-4f4e-b143-e4d69760c166" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-26 170435" src="https://github.com/user-attachments/assets/fbf31162-5ded-47d7-994d-a84bf1b92d35" />
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c9106d46-0f98-4623-af68-8f36baed85cd" />
-
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f17e2fd3-4a64-46a7-917e-c3a0ec4680cd" />
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the gmail page using Android Studio is developed and executed successfully.
